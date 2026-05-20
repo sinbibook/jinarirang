@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-05-19T09:21:08.760929207Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-05-20T04:08:01.847948024Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cd99c37f-7fa5-400b-834c-ed76e3c4c4ae",
     "homepageId": "f98d697a-a432-41b6-8e28-5df8e003dff0"
@@ -79,15 +79,40 @@
         "description": " ",
         "usageGuide": "- 픽업시간 : 14:30~15:00\n- 최대인원 : 4인\n- 픽업장소 : 여수엑스포역\n※ 사전예약 및 문의필수",
         "displayOrder": 0,
-        "images": [ ]
-      },
-      {
-        "id": "0dd4e7e1-10d8-4d9a-a185-bb48d7ca973f",
-        "name": "식당(백초횟집)",
-        "description": " ",
-        "usageGuide": " ",
-        "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "c2e4775f-66b5-445c-b703-60f64c9b6e46",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/82600ce3-6c01-4c4c-b1f3-05d7ff630a9b/main/1779250069368-3zfdqxbwmq.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9dee6831-31e4-4e4f-8d49-beffc639de31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/82600ce3-6c01-4c4c-b1f3-05d7ff630a9b/main/1779250069449-sst6ggsx2x.png",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "182c27c0-9da4-40fe-abd8-360cc3d8b77c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/82600ce3-6c01-4c4c-b1f3-05d7ff630a9b/main/1779250069447-c8r38n3ba8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b0285046-a0ba-4ce1-8416-12a1beade95c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/82600ce3-6c01-4c4c-b1f3-05d7ff630a9b/main/1779250069386-yo1a3qgesq.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "68d27278-435b-4886-af08-abd534124ee8",
@@ -95,7 +120,40 @@
         "description": " ",
         "usageGuide": " ",
         "displayOrder": 2,
-        "images": [ ]
+        "images": [
+          {
+            "id": "51490ad0-81e0-4099-93e7-5f66581fc5ed",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/68d27278-435b-4886-af08-abd534124ee8/main/1779250069952-6pedl5y1vt.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "230a47ab-0849-45f4-b794-4b3ff4fad450",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/68d27278-435b-4886-af08-abd534124ee8/main/1779250069970-2bx8toslox.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e62d8a0f-3e39-4965-8121-a57183730ed6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/68d27278-435b-4886-af08-abd534124ee8/main/1779250069975-vf2shyj240.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0b981911-72a1-4713-a2ae-ca23fd584b5e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/68d27278-435b-4886-af08-abd534124ee8/main/1779250069973-esg1sqk2c7.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -223,14 +281,14 @@
   "rooms": [
     {
       "id": "388cdd79-143f-48fa-95a0-230befd97997",
-      "name": "한실 온돌 201",
+      "name": "패밀리온돌 201",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 5,
+      "size": 66.12,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 1,
@@ -299,14 +357,14 @@
     },
     {
       "id": "7d1d5b93-07c5-4484-b37f-4b3f49bb1b59",
-      "name": "한실 온돌 202",
+      "name": "패밀리온돌 202",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 5,
+      "size": 66.12,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 1,
@@ -375,14 +433,14 @@
     },
     {
       "id": "5689db1c-9f2a-4e04-ac13-b195210fbfef",
-      "name": "한실 온돌 205",
+      "name": "패밀리온돌 205",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 5,
+      "size": 66.12,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 1,
@@ -1338,7 +1396,7 @@
     },
     {
       "id": "145be3b6-4c71-4152-a274-366d16c30338",
-      "name": "패밀리 온돌 501 (취사가능)",
+      "name": "한실온돌 501 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1395,8 +1453,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
@@ -1415,7 +1473,7 @@
     },
     {
       "id": "c629d873-a8e4-4e9f-b901-5a53590ff421",
-      "name": "패밀리 온돌 502 (취사가능)",
+      "name": "한실온돌 502 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1472,8 +1530,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
@@ -1492,7 +1550,7 @@
     },
     {
       "id": "d9b68009-2000-4c91-8ef7-fe83343ab8ec",
-      "name": "패밀리 온돌 503 (취사가능)",
+      "name": "한실온돌 503 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1549,8 +1607,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
@@ -1569,7 +1627,7 @@
     },
     {
       "id": "517d2ce0-25a4-4597-888d-2c2a76d5ef79",
-      "name": "패밀리 온돌 505 (취사가능)",
+      "name": "한실온돌 505 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1624,8 +1682,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
@@ -1644,7 +1702,7 @@
     },
     {
       "id": "b5934930-e672-4e1f-844e-c8a1a5e4435c",
-      "name": "패밀리 온돌 506 (취사가능)",
+      "name": "한실온돌 506 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1699,8 +1757,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
@@ -1719,7 +1777,7 @@
     },
     {
       "id": "874948ef-b95f-4326-a081-0d72f8001411",
-      "name": "패밀리 온돌 507 (취사가능)",
+      "name": "한실온돌 507 (취사가능)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1\n(취사가능)",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 15,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
@@ -1774,8 +1832,8 @@
       "status": "active",
       "timeSettings": {
         "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
+        "checkin": "16:00",
+        "checkout": "10:30",
         "checkinDeadline": "22:00"
       },
       "roomOptions": {
