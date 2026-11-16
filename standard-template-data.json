@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-11-16T03:29:08.409932496Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-11-16T03:29:29.649314431Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cd99c37f-7fa5-400b-834c-ed76e3c4c4ae",
     "homepageId": "f98d697a-a432-41b6-8e28-5df8e003dff0"
@@ -29,6 +29,9 @@
     "domain": "jinarirang.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1663548",
     "ybsId": "52724",
+    "tripPropertyId": "12237",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -50,8 +53,7 @@
       "businessEmail": "ykj7726ykj@gmail.com",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -286,10 +288,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12237",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
